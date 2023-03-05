@@ -1,0 +1,352 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.account-details-asJ {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.account-details-asJ .background-K4C {
+  width: 199.0277rem;
+  height: 121.3574rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.account-details-asJ .menu-e6U {
+  box-sizing: border-box;
+  padding-bottom: 5.1rem;
+  width: 13.2rem;
+  height: 108rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1a0e70;
+  border-radius: 0 2.4rem 2.4rem 0;
+}
+.account-details-asJ .menu-e6U .auto-group-jcyx-xN4 {
+  box-sizing: border-box;
+  padding: 6rem 4.8rem 3.3rem 4.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-details-asJ .menu-e6U .auto-group-jcyx-xN4 .icon-fXN {
+  margin-bottom: 20.3rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .menu-e6U .auto-group-jcyx-xN4 .home-bfv {
+  margin-bottom: 5.4rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .menu-e6U .auto-group-jcyx-xN4 .movie-wUt {
+  margin-bottom: 5.3rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .menu-e6U .auto-group-jcyx-xN4 .fav-5b6 {
+  margin-bottom: 3.6rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .menu-e6U .auto-group-jcyx-xN4 .notification-cqv {
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .menu-e6U .group-68-kSL {
+  margin-bottom: 4.9rem;
+  box-sizing: border-box;
+  padding: 2.025rem 0.7rem 1.425rem 1.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #1a194b;
+  flex-shrink: 0;
+}
+.account-details-asJ .menu-e6U .group-68-kSL .icon-5Uc {
+  margin-right: 1.35rem;
+  width: 2.75rem;
+  height: 2.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .menu-e6U .group-68-kSL .account-dFE {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-details-asJ .menu-e6U .settings-LfS {
+  margin: 0rem 0rem 23.4rem 0.1rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .menu-e6U .vector-SCg {
+  margin-left: 0.1rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .button-A8g {
+  width: 27rem;
+  height: 8.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 82.5rem;
+  top: 86.3rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(-90deg, #d71e2a 79.63%, #c70d4b 22.04%);
+  border-radius: 1rem;
+}
+.account-details-asJ .account-Myr {
+  box-sizing: border-box;
+  padding-bottom: 5.2rem;
+  width: 113.8rem;
+  height: 54.3rem;
+  position: absolute;
+  left: 39.1rem;
+  top: 25.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 0.3rem #ffffff;
+}
+.account-details-asJ .account-Myr .account-details-shJ {
+  margin: 0rem 0.6rem 2.9rem 0rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-details-asJ .account-Myr .line-1-yVS {
+  margin-bottom: 4.5rem;
+  width: 100%;
+  height: 0.3rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.account-details-asJ .account-Myr .acc-info-7Lk {
+  margin: 0rem 63.3rem 4.9rem 0rem;
+  max-width: 45.7rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.171875;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-details-asJ .account-Myr .acc-info-7Lk .acc-info-7Lk-sub-0 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.account-details-asJ .account-Myr .acc-info-7Lk .acc-info-7Lk-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.account-details-asJ .account-Myr .acc-info-7Lk .acc-info-7Lk-sub-2 {
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.account-details-asJ .account-Myr .acc-info-7Lk .acc-info-7Lk-sub-3 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.account-details-asJ .account-Myr .acc-info-7Lk .acc-info-7Lk-sub-4 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.account-details-asJ .account-Myr .acc-info-7Lk .acc-info-7Lk-sub-5 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.account-details-asJ .account-Myr .acc-info-7Lk .acc-info-7Lk-sub-6 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.account-details-asJ .account-Myr .acc-info-7Lk .acc-info-7Lk-sub-7 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.account-details-asJ .account-Myr .acc-info-7Lk .acc-info-7Lk-sub-8 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.account-details-asJ .netflixlogocmyk-1-so6 {
+  width: 21.5rem;
+  height: 9rem;
+  position: absolute;
+  left: 166.5rem;
+  top: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-details-asJ .users-ZR2 {
+  width: 73.7rem;
+  height: 15.7rem;
+  position: absolute;
+  left: 59.2rem;
+  top: 3.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.account-details-asJ .users-ZR2 .jonas-Szc {
+  margin-right: 10.3rem;
+  box-sizing: border-box;
+  padding: 0rem 2.2rem 1.9rem 2.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 2.7rem #ffffff;
+  flex-shrink: 0;
+}
+.account-details-asJ .users-ZR2 .jonas-Szc .auto-group-ennj-xTA {
+  margin-bottom: 1.4rem;
+  width: 8.9rem;
+  height: 8.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .users-ZR2 .jonas-Szc .jonas-5Gt {
+  margin-right: 0.5rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-details-asJ .users-ZR2 .martha-ZC4 {
+  margin: 0.5rem 12.2rem 0rem 0rem;
+  width: 8.4rem;
+  height: 8.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .users-ZR2 .hannah-GcG {
+  margin: 0.5rem 12.2rem 0rem 0rem;
+  width: 8.4rem;
+  height: 8.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-details-asJ .users-ZR2 .adam-NQQ {
+  margin-top: 0.5rem;
+  width: 8.4rem;
+  height: 8.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

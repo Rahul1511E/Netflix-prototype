@@ -1,0 +1,1162 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.favourite-YWU {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.favourite-YWU .background-gcg {
+  width: 199.0277rem;
+  height: 121.3574rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #111036;
+}
+.favourite-YWU .background-gcg .vector-1-dH2 {
+  width: 179.5397rem;
+  height: 121.3574rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.favourite-YWU .netflixlogocmyk-1-ZAg {
+  width: 21.5rem;
+  height: 9rem;
+  position: absolute;
+  left: 166.5rem;
+  top: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.favourite-YWU .menu-shA {
+  box-sizing: border-box;
+  padding-bottom: 5.1rem;
+  width: 13.2rem;
+  height: 108rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1a0e70;
+  border-radius: 0 2.4rem 2.4rem 0;
+}
+.favourite-YWU .menu-shA .auto-group-ddef-Ndv {
+  box-sizing: border-box;
+  padding: 6rem 4.9rem 3.5rem 4.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.favourite-YWU .menu-shA .auto-group-ddef-Ndv .icon-tcG {
+  margin-bottom: 20.3rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .menu-shA .auto-group-ddef-Ndv .home-cHN {
+  margin-bottom: 6rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .menu-shA .auto-group-ddef-Ndv .movie-k8g {
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .menu-shA .auto-group-k8yo-tEt {
+  margin-bottom: 3.4rem;
+  box-sizing: border-box;
+  padding: 2rem 2.7rem 1.4rem 1.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #1a194b;
+  flex-shrink: 0;
+}
+.favourite-YWU .menu-shA .auto-group-k8yo-tEt .fav-zYp {
+  margin: 0rem 1rem 0.3rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .menu-shA .auto-group-k8yo-tEt .liked-iDv {
+  margin-top: 0.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.favourite-YWU .menu-shA .notification-CPz {
+  margin: 0rem 0.1rem 4.8rem 0rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .menu-shA .icon-WQg {
+  margin: 0rem 0.1rem 4.8rem 0rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .menu-shA .settings-e16 {
+  margin: 0rem 0.1rem 23.4rem 0rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .menu-shA .vector-y3N {
+  margin-right: 0.1rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .users-suS {
+  width: 73.7rem;
+  height: 15.7rem;
+  position: absolute;
+  left: 59.2rem;
+  top: 3.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.favourite-YWU .users-suS .jonas-bqS {
+  margin-right: 10.3rem;
+  box-sizing: border-box;
+  padding: 0rem 2.2rem 1.9rem 2.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 2.7rem #ffffff;
+  flex-shrink: 0;
+}
+.favourite-YWU .users-suS .jonas-bqS .auto-group-do2w-8Ka {
+  margin-bottom: 1.4rem;
+  width: 8.9rem;
+  height: 8.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .users-suS .jonas-bqS .jonas-Tck {
+  margin-right: 0.5rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.favourite-YWU .users-suS .martha-LRe {
+  margin: 0.5rem 12.2rem 0rem 0rem;
+  width: 8.4rem;
+  height: 8.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .users-suS .hannah-rPz {
+  margin: 0.5rem 12.2rem 0rem 0rem;
+  width: 8.4rem;
+  height: 8.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .users-suS .adam-AvU {
+  margin-top: 0.5rem;
+  width: 8.4rem;
+  height: 8.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i {
+  width: 156.2rem;
+  height: 87.5rem;
+  position: absolute;
+  left: 27.8rem;
+  top: 18.4rem;
+  overflow: hidden;
+}
+.favourite-YWU .content-h9i .content-2St {
+  width: 198.9rem;
+  height: 241.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN {
+  width: 100%;
+  height: 82.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .seasons-JvC {
+  width: 94.7rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 70.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .seasons-JvC .auto-group-urmd-ptY {
+  margin-right: 8rem;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.4rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .seasons-JvC .season-2-CGp {
+  margin: 0.2rem 8.3rem 0rem 0rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .seasons-JvC .season-3-VWp {
+  margin: 0.2rem 8.5rem 0rem 0rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .seasons-JvC .season-4-zTa {
+  margin: 0.2rem 8.5rem 0rem 0rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .seasons-JvC .season-5-uaY {
+  margin-top: 0.2rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .line-3-EMv {
+  width: 156.2rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 0;
+  top: 66.4rem;
+  background-color: #ffffff;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU {
+  width: 156.2rem;
+  height: 60rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn {
+  margin: 0rem 13.5rem 1.4rem 0rem;
+  max-width: 28.8rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn-sub-1 {
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn-sub-2 {
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #c4c4c4;
+  font-family: Exo, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn-sub-3 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn-sub-4 {
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn-sub-5 {
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #c4c4c4;
+  font-family: Exo, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn-sub-6 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn-sub-7 {
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn-sub-8 {
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #c4c4c4;
+  font-family: Exo, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn .breaking-bad-release-date-20-january-2008-cast-bryan-cranston-aaron-paul-anna-gunn-genres-crime-tv-dramas-tv-thrillers-us-tv-shows-JMn-sub-9 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .auto-group-mmvh-mfN .movie-AWU .auto-group-axym-gKi {
+  width: 113.9rem;
+  height: 60rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L {
+  box-sizing: border-box;
+  padding-bottom: 2.7rem;
+  width: 100%;
+  height: 117.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc {
+  margin: 0rem 4.6rem 3rem 0rem;
+  width: calc(100% - 4.6rem);
+  height: 17.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .group-83-yTE {
+  margin-right: 4rem;
+  width: 30.5rem;
+  height: 17.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .auto-group-hup1-73e {
+  margin: 2rem 0rem 4.685rem 0rem;
+  width: 159.8rem;
+  height: calc(100% - 6.685rem);
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .auto-group-hup1-73e .auto-group-ke7h-pye {
+  margin-right: 86.1rem;
+  width: calc(100% - 86.1rem);
+  display: flex;
+  align-items: center;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .auto-group-hup1-73e .auto-group-ke7h-pye .eposode-1-pilot-yLk {
+  margin-right: 44.3rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #000000;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .auto-group-hup1-73e .auto-group-ke7h-pye .eposode-1-pilot-yLk .eposode-1-pilot-yLk-sub-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .auto-group-hup1-73e .auto-group-ke7h-pye .eposode-1-pilot-yLk .eposode-1-pilot-yLk-sub-1 {
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .auto-group-hup1-73e .auto-group-ke7h-pye .min-LqW {
+  margin-top: 0.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .auto-group-hup1-73e .auto-group-gbyk-sKe {
+  width: 100%;
+  height: 6.815rem;
+  position: relative;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .auto-group-hup1-73e .auto-group-gbyk-sKe .diagnosed-with-terminal-lung-cancer-a-high-school-chemistry-teacher-resorts-to-cooking-and-selling-methamphetamine-to-provide-for-his-family-oyz {
+  width: 159.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 1.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .auto-group-hup1-73e .auto-group-gbyk-sKe .play-3dS {
+  box-sizing: border-box;
+  padding: 1.789rem 1.789rem 1.789rem 2.482rem;
+  width: 6.8149rem;
+  height: 6.815rem;
+  position: absolute;
+  left: 104.1rem;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-ctp.png');
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep1-rNc .auto-group-hup1-73e .auto-group-gbyk-sKe .play-3dS .vector-MPE {
+  width: 2.544rem;
+  height: 3.2379rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .line-6-fPv {
+  margin-bottom: 3rem;
+  width: 152.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW {
+  margin: 0rem 2.7rem 3.1rem 0rem;
+  width: calc(100% - 2.7rem);
+  height: 17.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .group-84-WvL {
+  margin-right: 4rem;
+  width: 30.5rem;
+  height: 17.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .auto-group-dnhm-rDW {
+  margin: 2rem 0rem 4.685rem 0rem;
+  width: 161.7rem;
+  height: calc(100% - 6.685rem);
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .auto-group-dnhm-rDW .auto-group-cxkm-LeU {
+  margin-right: 88rem;
+  width: calc(100% - 88rem);
+  display: flex;
+  align-items: center;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .auto-group-dnhm-rDW .auto-group-cxkm-LeU .eposode-2the-cats-in-the-bag-gCY {
+  margin-right: 23rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #000000;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .auto-group-dnhm-rDW .auto-group-cxkm-LeU .eposode-2the-cats-in-the-bag-gCY .eposode-2the-cats-in-the-bag-gCY-sub-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .auto-group-dnhm-rDW .auto-group-cxkm-LeU .eposode-2the-cats-in-the-bag-gCY .eposode-2the-cats-in-the-bag-gCY-sub-1 {
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .auto-group-dnhm-rDW .auto-group-cxkm-LeU .min-ENU {
+  margin-top: 0.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .auto-group-dnhm-rDW .auto-group-luvv-Ye4 {
+  width: 100%;
+  height: 6.815rem;
+  position: relative;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .auto-group-dnhm-rDW .auto-group-luvv-Ye4 .their-first-aborted-drug-deal-forces-walt-and-jesse-to-dispose-of-a-pair-of-corpses-meanwhile-skyler-suspects-that-her-husband-is-up-to-no-good-VpC {
+  width: 161.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 1.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .auto-group-dnhm-rDW .auto-group-luvv-Ye4 .play-button-LK2 {
+  box-sizing: border-box;
+  padding: 1.789rem 1.789rem 1.789rem 2.482rem;
+  width: 6.8149rem;
+  height: 6.815rem;
+  position: absolute;
+  left: 104.1rem;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-asS.png');
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep2-QMW .auto-group-dnhm-rDW .auto-group-luvv-Ye4 .play-button-LK2 .vector-oyJ {
+  width: 2.544rem;
+  height: 3.2379rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .line-7-HtU {
+  margin-bottom: 2.7rem;
+  width: 152.9rem;
+  height: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep3-oM2 {
+  margin: 0rem 32rem 3rem 0rem;
+  width: calc(100% - 32rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep3-oM2 .group-85-uQ4 {
+  margin-right: 4rem;
+  width: 30.5rem;
+  height: 17.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep3-oM2 .auto-group-h7mr-1xt {
+  margin-top: 2rem;
+  width: 132.4rem;
+  height: 9.215rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep3-oM2 .auto-group-h7mr-1xt .eposode-3-and-the-bags-in-the-river-8Xi {
+  width: 53.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #000000;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep3-oM2 .auto-group-h7mr-1xt .eposode-3-and-the-bags-in-the-river-8Xi .eposode-3-and-the-bags-in-the-river-8Xi-sub-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep3-oM2 .auto-group-h7mr-1xt .eposode-3-and-the-bags-in-the-river-8Xi .eposode-3-and-the-bags-in-the-river-8Xi-sub-1 {
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep3-oM2 .auto-group-h7mr-1xt .as-walt-cleans-up-the-mess-that-was-left-after-his-first-drug-deal-skyler-gets-too-close-to-the-truth-about-his-double-life-DxU {
+  width: 132.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep3-oM2 .auto-group-h7mr-1xt .play-button-V9J {
+  box-sizing: border-box;
+  padding: 1.789rem 1.789rem 1.789rem 2.482rem;
+  width: 6.8149rem;
+  height: 6.815rem;
+  position: absolute;
+  left: 104.1rem;
+  top: 2.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-up4.png');
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep3-oM2 .auto-group-h7mr-1xt .play-button-V9J .vector-bCL {
+  width: 2.544rem;
+  height: 3.2379rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep3-oM2 .auto-group-h7mr-1xt .min-j3e {
+  width: 7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 66.7rem;
+  top: 0.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .line-8-pqn {
+  margin-bottom: 2.7rem;
+  width: 152.9rem;
+  height: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep4-ZoN {
+  margin: 0rem 9.3rem 3rem 0rem;
+  width: calc(100% - 9.3rem);
+  height: 17.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep4-ZoN .group-86-Vh2 {
+  margin-right: 4rem;
+  width: 30.5rem;
+  height: 17.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep4-ZoN .auto-group-ksmh-doE {
+  margin: 2rem 0rem 4.685rem 0rem;
+  width: 155.1rem;
+  height: calc(100% - 6.685rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep4-ZoN .auto-group-ksmh-doE .eposode-4-cancer-man-MDS {
+  width: 33.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #000000;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep4-ZoN .auto-group-ksmh-doE .eposode-4-cancer-man-MDS .eposode-4-cancer-man-MDS-sub-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep4-ZoN .auto-group-ksmh-doE .eposode-4-cancer-man-MDS .eposode-4-cancer-man-MDS-sub-1 {
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep4-ZoN .auto-group-ksmh-doE .being-forced-to-reveal-the-truth-about-his-illness-leaves-walt-facing-the-dilemma-of-how-to-pay-for-an-expensive-series-of-cancer-treatments-VDA {
+  width: 155.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep4-ZoN .auto-group-ksmh-doE .play-button-YSL {
+  box-sizing: border-box;
+  padding: 1.789rem 1.789rem 1.789rem 2.482rem;
+  width: 6.8149rem;
+  height: 6.815rem;
+  position: absolute;
+  left: 104.1rem;
+  top: 4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-3vg.png');
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep4-ZoN .auto-group-ksmh-doE .play-button-YSL .vector-3P6 {
+  width: 2.544rem;
+  height: 3.2379rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep4-ZoN .auto-group-ksmh-doE .min-ynY {
+  width: 7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 66.7rem;
+  top: 0.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .line-9-Gme {
+  margin-bottom: 2.6999rem;
+  width: 152.9rem;
+  height: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr {
+  margin: 0rem 11.6rem 3rem 0rem;
+  width: calc(100% - 11.6rem);
+  height: 17.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .group-89-LmW {
+  margin-right: 4rem;
+  width: 30.5rem;
+  height: 17.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .auto-group-pzxs-5j6 {
+  margin: 2rem 0rem 4.685rem 0rem;
+  width: 152.8rem;
+  height: calc(100% - 6.6849rem);
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .auto-group-pzxs-5j6 .auto-group-eksf-1ck {
+  margin: 0rem 79.1rem 0rem 0rem;
+  width: calc(100% - 79.1rem);
+  display: flex;
+  align-items: center;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .auto-group-pzxs-5j6 .auto-group-eksf-1ck .eposode-5-gray-matter-wmJ {
+  margin-right: 33rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #000000;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .auto-group-pzxs-5j6 .auto-group-eksf-1ck .eposode-5-gray-matter-wmJ .eposode-5-gray-matter-wmJ-sub-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .auto-group-pzxs-5j6 .auto-group-eksf-1ck .eposode-5-gray-matter-wmJ .eposode-5-gray-matter-wmJ-sub-1 {
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .auto-group-pzxs-5j6 .auto-group-eksf-1ck .min-JVN {
+  margin-top: 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .auto-group-pzxs-5j6 .auto-group-wfm1-pTi {
+  width: 100%;
+  height: 6.815rem;
+  position: relative;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .auto-group-pzxs-5j6 .auto-group-wfm1-pTi .skyler-organizes-an-intervention-to-persuade-walt-to-accept-his-former-research-partners-generous-offer-to-pay-for-the-cancer-treatments-NEL {
+  width: 152.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 1.1999rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .auto-group-pzxs-5j6 .auto-group-wfm1-pTi .play-button-RTW {
+  box-sizing: border-box;
+  padding: 1.789rem 1.789rem 1.789rem 2.482rem;
+  width: 6.8149rem;
+  height: 6.815rem;
+  position: absolute;
+  left: 104.1rem;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-jGk.png');
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .ep5-Qsr .auto-group-pzxs-5j6 .auto-group-wfm1-pTi .play-button-RTW .vector-YHE {
+  width: 2.544rem;
+  height: 3.2379rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .auto-group-uavj-x2L .line-10-f6x {
+  width: 152.9rem;
+  height: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep6-oU4 {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 17.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep6-oU4 .group-87-MEg {
+  margin-right: 4rem;
+  width: 30.5rem;
+  height: 17.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep6-oU4 .auto-group-gf67-He8 {
+  margin: 2rem 0rem 4.685rem 0rem;
+  width: 164.4rem;
+  height: calc(100% - 6.685rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep6-oU4 .auto-group-gf67-He8 .eposode-6-crazy-handful-of-nothin-cRW {
+  width: 51.4rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #000000;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep6-oU4 .auto-group-gf67-He8 .eposode-6-crazy-handful-of-nothin-cRW .eposode-6-crazy-handful-of-nothin-cRW-sub-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep6-oU4 .auto-group-gf67-He8 .eposode-6-crazy-handful-of-nothin-cRW .eposode-6-crazy-handful-of-nothin-cRW-sub-1 {
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep6-oU4 .auto-group-gf67-He8 .with-the-side-effects-and-cost-of-his-treatment-mounting-walt-demands-that-jesse-find-a-wholesaler-to-buy-their-drugs-which-lands-him-in-trouble-jeY {
+  width: 164.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep6-oU4 .auto-group-gf67-He8 .play-button-afA {
+  box-sizing: border-box;
+  padding: 1.789rem 1.789rem 1.789rem 2.482rem;
+  width: 6.8149rem;
+  height: 6.815rem;
+  position: absolute;
+  left: 104.1rem;
+  top: 4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-9vQ.png');
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep6-oU4 .auto-group-gf67-He8 .play-button-afA .vector-Gnt {
+  width: 2.544rem;
+  height: 3.2379rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep6-oU4 .auto-group-gf67-He8 .min-CwS {
+  width: 7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 66.7rem;
+  top: 0.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .line-11-Jja {
+  margin-bottom: 2.8rem;
+  width: 152.9rem;
+  height: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep7-FPv {
+  margin-right: 1.8rem;
+  width: calc(100% - 1.8rem);
+  height: 17.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep7-FPv .group-88-bCt {
+  margin-right: 4rem;
+  width: 30.5rem;
+  height: 17.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep7-FPv .auto-group-rbc3-XsE {
+  margin: 2rem 0rem 4.685rem 0rem;
+  width: 162.6rem;
+  height: calc(100% - 6.685rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep7-FPv .auto-group-rbc3-XsE .eposode-7-a-no-rough-stuff-type-deal-dvG {
+  width: 57.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #000000;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep7-FPv .auto-group-rbc3-XsE .eposode-7-a-no-rough-stuff-type-deal-dvG .eposode-7-a-no-rough-stuff-type-deal-dvG-sub-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep7-FPv .auto-group-rbc3-XsE .eposode-7-a-no-rough-stuff-type-deal-dvG .eposode-7-a-no-rough-stuff-type-deal-dvG-sub-1 {
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep7-FPv .auto-group-rbc3-XsE .after-jesses-brush-with-death-walt-agrees-to-produce-even-more-drugs-for-the-ruthless-tuco-meanwhile-skyler-suspects-her-sister-of-shoplifting-aU8 {
+  width: 162.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep7-FPv .auto-group-rbc3-XsE .play-button-1pL {
+  box-sizing: border-box;
+  padding: 1.789rem 1.789rem 1.789rem 2.482rem;
+  width: 6.8149rem;
+  height: 6.815rem;
+  position: absolute;
+  left: 104.1rem;
+  top: 4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse.png');
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep7-FPv .auto-group-rbc3-XsE .play-button-1pL .vector-6at {
+  width: 2.544rem;
+  height: 3.2379rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.favourite-YWU .content-h9i .content-2St .seaoson-1-zrC .ep7-FPv .auto-group-rbc3-XsE .min-DvQ {
+  width: 7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 66.7rem;
+  top: 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #979797;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}

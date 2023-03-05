@@ -1,0 +1,380 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.account-settings-nSU {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.account-settings-nSU .background-QCx {
+  width: 199.0277rem;
+  height: 121.3574rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #111036;
+}
+.account-settings-nSU .background-QCx .vector-1-GPa {
+  width: 179.5397rem;
+  height: 121.3574rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.account-settings-nSU .menu-n72 {
+  box-sizing: border-box;
+  padding-bottom: 5.1rem;
+  width: 13.2rem;
+  height: 108rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1a0e70;
+  border-radius: 0 2.4rem 2.4rem 0;
+}
+.account-settings-nSU .menu-n72 .auto-group-i6ud-fRi {
+  box-sizing: border-box;
+  padding: 6rem 4.8rem 4.6rem 4.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-settings-nSU .menu-n72 .auto-group-i6ud-fRi .icon-A7a {
+  margin-bottom: 20.3rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .menu-n72 .auto-group-i6ud-fRi .home-4ye {
+  margin-bottom: 4.6rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .menu-n72 .auto-group-i6ud-fRi .movie-QXi {
+  margin-bottom: 4.6rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .menu-n72 .auto-group-i6ud-fRi .fav-jpt {
+  margin-bottom: 4.6rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .menu-n72 .auto-group-i6ud-fRi .notification-4MN {
+  margin-bottom: 4.6rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .menu-n72 .auto-group-i6ud-fRi .icon-aac {
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .menu-n72 .group-67-Ko6 {
+  margin-bottom: 22.9rem;
+  box-sizing: border-box;
+  padding: 2.2rem 0.8rem 1.4rem 1.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #1a194b;
+  flex-shrink: 0;
+}
+.account-settings-nSU .menu-n72 .group-67-Ko6 .settings-Ev4 {
+  margin-right: 1.2rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .menu-n72 .group-67-Ko6 .settings-xr4 {
+  margin-bottom: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-settings-nSU .menu-n72 .vector-ptG {
+  margin-left: 0.1rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL {
+  width: 134rem;
+  height: 55.7rem;
+  position: absolute;
+  left: 36.1rem;
+  top: 25.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.account-settings-nSU .settings-jkL .auto-group-7rxr-rpx {
+  box-sizing: border-box;
+  padding: 0rem 10rem 12.4rem 10.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .auto-group-7rxr-rpx .account-settings-zAU {
+  margin: 0rem 0rem 2.9rem 1.6rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .auto-group-7rxr-rpx .line-1-Gdn {
+  width: 100%;
+  height: 0.3rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx {
+  width: 100%;
+  height: 32.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .membership-details-YLQ {
+  margin-right: 16.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .membership-details-YLQ .auto-group-h2k1-UE4 {
+  margin-bottom: 4rem;
+  width: 20rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .membership-details-YLQ .membership-details-CA4 {
+  max-width: 21.8rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .parental-controls-Jit {
+  margin-right: 17.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .parental-controls-Jit .auto-group-ztrm-FPE {
+  margin-bottom: 4rem;
+  width: 20rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .parental-controls-Jit .parental-controls-msN {
+  max-width: 14.2rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .lang-setting-sfW {
+  margin-right: 17.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .lang-setting-sfW .auto-group-qrqx-1mi {
+  margin-bottom: 4rem;
+  width: 20rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .lang-setting-sfW .language-settings-M4t {
+  margin-right: 0.2rem;
+  max-width: 16.3rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .manage-device-TNp {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .manage-device-TNp .auto-group-fjz7-CbJ {
+  margin-bottom: 4rem;
+  width: 20rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .settings-jkL .settings-bvx .manage-device-TNp .manage-devices-jr8 {
+  max-width: 13.4rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-settings-nSU .netflixlogocmyk-1-SkY {
+  width: 21.5rem;
+  height: 9rem;
+  position: absolute;
+  left: 166.5rem;
+  top: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-settings-nSU .users-xyn {
+  width: 73.7rem;
+  height: 15.7rem;
+  position: absolute;
+  left: 59.2rem;
+  top: 3.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.account-settings-nSU .users-xyn .jonas-tcY {
+  margin-right: 10.3rem;
+  box-sizing: border-box;
+  padding: 0rem 2.2rem 1.9rem 2.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 2.7rem #ffffff;
+  flex-shrink: 0;
+}
+.account-settings-nSU .users-xyn .jonas-tcY .auto-group-8ixh-1x4 {
+  margin-bottom: 1.4rem;
+  width: 8.9rem;
+  height: 8.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .users-xyn .jonas-tcY .jonas-Ywz {
+  margin-right: 0.5rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Exo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-settings-nSU .users-xyn .martha-eVE {
+  margin: 0.5rem 12.2rem 0rem 0rem;
+  width: 8.4rem;
+  height: 8.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .users-xyn .hannah-yXW {
+  margin: 0.5rem 12.2rem 0rem 0rem;
+  width: 8.4rem;
+  height: 8.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-settings-nSU .users-xyn .adam-hiQ {
+  margin-top: 0.5rem;
+  width: 8.4rem;
+  height: 8.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
